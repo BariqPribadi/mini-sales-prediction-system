@@ -139,17 +139,7 @@ Password : admin123
 
 ## Screenshots
 
-### Login
-![Login](screenshots/login.png)
 
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Prediksi Laris
-![Prediksi Laris](screenshots/laris-test.png)
-
-### Prediksi Tidak Laris
-![Prediksi Tidak Laris](screenshots/tidak-laris-test.png)
 
 ---
 
